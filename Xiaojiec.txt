@@ -1,0 +1,4 @@
+Course name: CS3141 – Team Software Project
+Section: R02
+Name: Xiaojie Chen
+Email: xiaojiec@mtu.edu
